@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "내 확장 프로그램",
+    "description": "확장 프로그램의 이름"
+  },
+  "extensionDescription": {
+    "message": "이것은 멋진 확장 프로그램입니다",
+    "description": "확장 프로그램의 설명"
+  },
+  "buttonText": {
+    "message": "클릭하세요",
+    "description": "메인 버튼의 텍스트"
+  }
+}

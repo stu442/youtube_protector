@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "My Extension",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "This is my awesome extension",
+    "description": "The description of the extension"
+  },
+  "buttonText": {
+    "message": "Click me",
+    "description": "Text for the main button"
+  }
+}
